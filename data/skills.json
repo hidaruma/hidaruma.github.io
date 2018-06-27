@@ -1,0 +1,15 @@
+[
+	{
+		"grouping":"Architecture being interested in",
+		"skills":["TypeSetting", "RESTful APIs", "GraphQL", "Microservices"]
+	},{
+		"grouping":"Languages, Operating Systems & Tools",
+		"skills":["Python3", "Golang", "git", "linux", "bash", "SQL"]		
+	},{
+		"grouping":"Skills begginer level",
+		"skills":["C", "Ruby", ""]		
+	},{
+		"grouping":"Learning now",
+		"skills":["Vue.js", "3D Modeling with Blender"]
+	}
+]

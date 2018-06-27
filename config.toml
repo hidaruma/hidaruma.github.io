@@ -1,0 +1,4 @@
+baseURL = "https://hidaruma.github.io"
+languageCode = "en-US"
+title = "hidaruma main site"
+theme = "resume"
