@@ -1,5 +1,9 @@
 ---
-title: "hidaruma.github.io"
-sitemap:
-  priority: 1.0
+title "Home"
+sitemap: priority: 0.9
+
+outputs:
+- html
+- rss
+- json
 ---
