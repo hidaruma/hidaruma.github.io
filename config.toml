@@ -2,3 +2,29 @@ baseURL = "https://hidaruma.github.io"
 languageCode = "en-US"
 title = "hidaruma main site"
 theme = "resume"
+
+[taxonomies]
+    tag = "tags"
+    
+[params]
+    profileImage = "https://s.gravatar.com/avatar/ac1efe24c210dddd965d50e2060edeeb?s=80&r=g"
+    email = "hidaruma@outlook.jp"
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showExperience = true
+    showEducation = true
+    showQr = false
+    
+[[param.handles]]
+    name = "GitHub"
+    link = "https://github.com/hidaruma"
+    
+[[params.handles]]
+    name = "Blog"
+    link = "https//laughingandgrief.hatenablog.com"
+ 
+ 
+[outputs]
+    home = ["HTML", "JSON"]
+    
