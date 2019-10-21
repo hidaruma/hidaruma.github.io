@@ -1,4 +1,15 @@
-baseURL = "https://hidaruma.github.io"
-languageCode = "en-US"
-title = "hidaruma main site"
-theme = "resume"
+baseURL = "https://hidaruma.github.io/"
+languageCode = "ja"
+title = "hidaruma"
+theme = "vncnt-hugo"
+
+[params]
+author = "YOKOTA Tatsuro"
+avatar = "https://avatars2.githubusercontent.com/u/12541582?s=460&v=4"
+favicon = "https://avatars2.githubusercontent.com/u/12541582?s=128&v=4"
+bio = "A Programmer who is interested in Lightweight Language, Typesetting, Desktop mascot, Automation and so on."
+
+[params.contact]
+github = "https://github.com/hidaruma"
+twitter = "https://twitter.com/hid_alma1026"
+email = "hidaruma@outlook.jp"
