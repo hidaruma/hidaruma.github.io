@@ -1,30 +1,15 @@
-baseURL = "https://hidaruma.github.io"
-languageCode = "en-US"
-title = "hidaruma main site"
-theme = "resume"
+baseURL = "https://hidaruma.github.io/"
+languageCode = "ja"
+title = "hidaruma"
+theme = "vncnt-hugo"
 
-[taxonomies]
-    tag = "tags"
-    
 [params]
-    profileImage = "https://s.gravatar.com/avatar/ac1efe24c210dddd965d50e2060edeeb?s=80&r=g"
-    email = "hidaruma@outlook.jp"
-    showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showExperience = true
-    showEducation = true
-    showQr = false
-    
-[[param.handles]]
-    name = "GitHub"
-    link = "https://github.com/hidaruma"
-    
-[[params.handles]]
-    name = "Blog"
-    link = "https//laughingandgrief.hatenablog.com"
- 
- 
-[outputs]
-    home = ["HTML", "JSON"]
-    
+author = "YOKOTA Tatsuro"
+avatar = "https://avatars2.githubusercontent.com/u/12541582?s=460&v=4"
+favicon = "https://avatars2.githubusercontent.com/u/12541582?s=128&v=4"
+bio = "A Programmer who is interested in Lightweight Language, Typesetting, Desktop mascot, Automation and so on."
+
+[params.contact]
+github = "https://github.com/hidaruma"
+twitter = "https://twitter.com/hid_alma1026"
+email = "hidaruma@outlook.jp"
